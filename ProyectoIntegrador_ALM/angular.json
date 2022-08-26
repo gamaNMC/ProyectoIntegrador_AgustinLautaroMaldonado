@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoIntegrador_ALM/node_modules/bootstrap/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoIntegrador_ALM/node_modules/bootstrap/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
