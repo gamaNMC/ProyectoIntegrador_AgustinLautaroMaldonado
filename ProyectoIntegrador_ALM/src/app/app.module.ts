@@ -15,7 +15,8 @@ import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
     HeaderComponent,
     LogoAPComponent,
     SocialComponent,
-    BannerComponent
+    BannerComponent,
+    AcercaDeComponent
   ],
   imports: [
     BrowserModule,
