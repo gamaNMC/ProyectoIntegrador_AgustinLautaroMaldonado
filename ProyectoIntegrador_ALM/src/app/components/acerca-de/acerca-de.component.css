@@ -2,7 +2,7 @@
     padding: 20px;
 }
 div{
-    background-color: #a1b5cb;
+    background-color: #6b9caf;
     text-align: center;
 }
 
@@ -25,7 +25,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 950px;
+        top: 650px;
     }
 }
 
